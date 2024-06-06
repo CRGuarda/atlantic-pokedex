@@ -1,22 +1,22 @@
-# React + TypeScript + Vite
+# Atlantic Pokedex Interview Project
 
 ## Instalación
 
-1. Clona el repositorio
+1. Clone this repo
 
    ```sh
    git clone https://github.com/CRGuarda/atlantic-pokedex.git
    ```
 
-2. Instala los paquetes de NPM (este ejemplo es utilizando npm)
+2. Install npm necessary packages
 
    ```sh
    npm install
    ```
 
-3. Crea un archivo `.env` con las variables definidas en `.env.example` (estas variables son para validar el login básico)
+3. Create a `.env` file with the variables of `.env.example`. (This is to validate the basic login with memory cache)
 
-4. Ejecuta el proyecto
+4. Run the project
    ```sh
-   pnpm run dev
+   npm run dev
    ```
